@@ -1,0 +1,49 @@
+,0
+Mean,0.065%
+Annualized Mean,16.28%
+Variance,0.013%
+Annualized Variance,3.20%
+Semi-Variance,0.0065%
+Annualized Semi-Variance,1.65%
+Standard Deviation,1.13%
+Annualized Standard Deviation,17.88%
+Semi-Deviation,0.81%
+Annualized Semi-Deviation,12.85%
+Mean Absolute Deviation,0.70%
+CVaR at 95%,2.67%
+EVaR at 95%,5.69%
+Worst Realization,10.67%
+CDaR at 95%,13.91%
+MAX Drawdown,34.31%
+Average Drawdown,2.63%
+EDaR at 95%,21.23%
+First Lower Partial Moment,0.35%
+Ulcer Index,0.045
+Gini Mean Difference,1.06%
+Value at Risk at 95%,1.59%
+Drawdown at Risk at 95%,9.24%
+Entropic Risk Measure at 95%,3.00
+Fourth Central Moment,0.000036%
+Fourth Lower Partial Moment,0.000017%
+Skew,-1.12%
+Kurtosis,2256.98%
+Sharpe Ratio,0.057
+Annualized Sharpe Ratio,0.91
+Sortino Ratio,0.080
+Annualized Sortino Ratio,1.27
+Mean Absolute Deviation Ratio,0.092
+First Lower Partial Moment Ratio,0.18
+Value at Risk Ratio at 95%,0.041
+CVaR Ratio at 95%,0.024
+Entropic Risk Measure Ratio at 95%,0.00022
+EVaR Ratio at 95%,0.011
+Worst Realization Ratio,0.0061
+Drawdown at Risk Ratio at 95%,0.0070
+CDaR Ratio at 95%,0.0046
+Calmar Ratio,0.0019
+Average Drawdown Ratio,0.025
+EDaR Ratio at 95%,0.0030
+Ulcer Index Ratio,0.014
+Gini Mean Difference Ratio,0.061
+Effective Number of Assets,19.910062053803617
+Assets Number,20

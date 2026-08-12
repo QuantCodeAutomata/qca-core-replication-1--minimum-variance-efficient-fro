@@ -1,0 +1,2 @@
+pearson_r,kendall_tau,spearman_r,gaussian_rho,student_t_rho,student_t_nu,student_t_log_likelihood
+0.293846,0.212161,0.304383,0.313979,0.309703,5,565.1251
